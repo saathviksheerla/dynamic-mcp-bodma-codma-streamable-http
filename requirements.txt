@@ -1,0 +1,4 @@
+mcp[cli]>=1.6.0
+uvicorn>=0.29.0
+google-genai>=1.0.0
+python-dotenv>=1.0.0
